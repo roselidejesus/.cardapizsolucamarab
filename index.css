@@ -1,0 +1,13 @@
+
+body {
+    color: black;
+    background-color: pink;
+    margin: 18px;
+}
+ul {
+    display: initial;
+    font-family: Arial-helvetica;
+    list-style-type: none;
+    padding: 16px;
+}
+
